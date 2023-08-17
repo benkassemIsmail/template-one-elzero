@@ -86,9 +86,7 @@ header a {
     flex-direction: column;
     }
     header ul {
-        /* display: none; */
         position: absolute;
-    
     background-color: var(--bg-scd-color);
     width: 220px;
     right: 15px;
@@ -115,7 +113,6 @@ header a {
         padding-block: 8px;
     }
     header ul li:hover {
-        
         padding-left: 25px;
     }
 }
